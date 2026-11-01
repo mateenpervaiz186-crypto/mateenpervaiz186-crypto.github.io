@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mateenpervaiz186-crypto.github.io/sitemap.xml
